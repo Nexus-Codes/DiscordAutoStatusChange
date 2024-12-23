@@ -1,1 +1,1 @@
-# DiscordAutoStatusChange
+This is a script that changes a user's discord status after every two seconds that looks awesome on one's account!
